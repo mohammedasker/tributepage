@@ -1,0 +1,37 @@
+body {
+	background-color: #ffffcc;
+	font-size: 16px;
+	font-family: sans-serif;
+}
+#main {
+	width: 80%;
+	margin: auto;
+	overflow: hidden;
+}
+
+#title {
+	text-align: center;
+}
+
+.subtitle {
+	text-align: center;
+}
+
+#img-caption {
+	text-align: center;
+	text-decoration: 
+}
+
+#image {
+	width: 100%;
+	max-width: 700px;
+	height: auto;
+	margin: auto;
+	display: block;
+}
+
+@media (max-width: 768px){
+	p {
+		font-size: 18px;
+	}
+}
